@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "62608ba93827ca04",
+    "id": "a9cc063b4118c1e1",
     "type": "split",
     "children": [
       {
-        "id": "643a51cc1cbf0ca7",
+        "id": "f63e7e191e72122a",
         "type": "tabs",
         "children": [
           {
-            "id": "33535b545e19fe01",
+            "id": "3aef629035ef7d33",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study List.md",
+                "file": "Calculus/Integration - 20—02-2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Study List"
+              "title": "Integration - 20—02-2025"
             }
           }
         ]
@@ -27,11 +27,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "02cdbc1450b482fb",
+    "id": "7eb4c20c90435106",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "27e02e552603316d",
+        "id": "fc29414e58035b58",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -44,7 +44,7 @@
         }
       },
       {
-        "id": "3e5a16edeb680ea3",
+        "id": "d15f6ef29c5d2fb4",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -61,7 +61,7 @@
         }
       },
       {
-        "id": "6dae59247a9915de",
+        "id": "b7fff9eca6b4dd71",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -76,7 +76,7 @@
         }
       },
       {
-        "id": "2a4be762f82e49cb",
+        "id": "83870c0195b53257",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -89,15 +89,16 @@
     "currentTab": 0
   },
   "right": {
-    "id": "36e7d0472bdde3e8",
+    "id": "56ccfd0c944dbe2f",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "51d334d37e878cc0",
+        "id": "3bcf4e543e024ad7",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Calculus/Integration - 20—02-2025.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,11 +112,12 @@
         }
       },
       {
-        "id": "723e4bca85b8dcbc",
+        "id": "72f84834693f983b",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Calculus/Integration - 20—02-2025.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -124,11 +126,12 @@
         }
       },
       {
-        "id": "653ed2e4c362305f",
+        "id": "8d4e2a7388621b90",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
+            "file": "Calculus/Integration - 20—02-2025.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -138,7 +141,7 @@
         }
       },
       {
-        "id": "163c44fb072b697b",
+        "id": "1ccc3c494eed8f29",
         "type": "leaf",
         "state": {
           "type": "git-view",
@@ -161,18 +164,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "33535b545e19fe01",
+  "active": "1ccc3c494eed8f29",
   "lastOpenFiles": [
-    "Calculus/Integration - 20-02-2025.md",
+    "Graph Theory and Algorithms/Practical 03-03-2025.md",
+    "Graph Theory and Algorithms",
     "Calculus/Taylor's Theorem - 13-02-2025.md",
-    "Calculus.md",
-    "Study List.md",
+    "Calculus/Integration - 20—02-2025.md",
     "Calculus",
-    "/Study List.md",
-    "/Calculus/Taylor's Theorem.md",
-    "/Calculus/Integration - 20-02-2025.md",
-    "/Calculus",
     "README.md",
-    "/Calculus.md"
+    "Linear Algebra/18 Linear Regression.md",
+    "Linear Algebra/Gram-Schmidt Process.md",
+    "Linear Algebra/Least Squares Solution.md",
+    "Linear Algebra/QR Decomposition.md",
+    "Linear Algebra/11 LU Decomposition.md",
+    "Linear Algebra",
+    "Study List.md",
+    "Logic/Untitled.md",
+    "Logic/Practical - 21-02-2025.md",
+    "Logic",
+    "Operating Systems/Introduction to Operating Systems - 18-02-2025.md",
+    "Operating Systems/Processes and Threads - 21-02-2025.md",
+    "Operating Systems"
   ]
 }
