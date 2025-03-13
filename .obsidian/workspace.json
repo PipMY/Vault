@@ -8,175 +8,25 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3d5d63530b9fdc08",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "275a97668e3f628d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Calculus/Taylor's Theorem - 13-02-2025.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Taylor's Theorem - 13-02-2025"
-            }
-          },
-          {
-            "id": "ea921edc02e6c599",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Operating Systems/Introduction to Operating Systems - 18-02-2025.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Introduction to Operating Systems - 18-02-2025"
-            }
-          },
-          {
-            "id": "1a06a763fc4832f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Logic/Practical - 21-02-2025.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Practical - 21-02-2025"
-            }
-          },
-          {
-            "id": "e3aa1fa7aa3b32e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Study List.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Study List"
-            }
-          },
-          {
-            "id": "56f72c05730053cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Graph Theory and Algorithms/Practical 03-03-2025.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Practical 03-03-2025"
-            }
-          },
-          {
-            "id": "58a08097b9541549",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linear Algebra/18 Linear Regression.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "18 Linear Regression"
-            }
-          },
-          {
-            "id": "33d5801b24861431",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linear Algebra/Gram-Schmidt Process.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Gram-Schmidt Process"
-            }
-          },
-          {
-            "id": "e2a9aa394237b0bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linear Algebra/Gram-Schmidt Process.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Gram-Schmidt Process"
-            }
-          },
-          {
-            "id": "3b45118edd5febbb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Study List.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Study List"
-            }
-          },
-          {
-            "id": "e727bc575de1963a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linear Algebra/18 Linear Regression.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "18 Linear Regression"
-            }
-          },
-          {
             "id": "a0bcea21a994ca5b",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "kanban",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "Untitled Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false
+                  ]
+                }
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-trello",
+              "title": "Untitled Kanban"
             }
           }
-        ],
-        "currentTab": 11
+        ]
       }
     ],
     "direction": "vertical"
@@ -328,40 +178,48 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "task-board:Open task board": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "487f5fcef84d0708",
+  "active": "a0bcea21a994ca5b",
   "lastOpenFiles": [
-    "Calculus/Jom's calc.md",
-    "conflict-files-obsidian-git.md",
-    "Linear Algebra/Least Squares Solution.md",
-    "Linear Algebra/Jom's algebra.md",
-    "Linear Algebra/18 Linear Regression.md",
-    "Jom's note.md",
-    "README.md",
-    "Linear Algebra/Gram-Schmidt Process.md",
-    "Linear Algebra/QR Decomposition.md",
-    "Logic/Practical - 21-02-2025.md",
+    "Computer Systems/Operating Systems/Introduction to Operating Systems - 18-02-2025.md",
+    "Untitled Kanban.md",
     "Study List.md",
-    "Calculus/Taylor's Theorem - 13-02-2025.md",
-    "Linear Algebra/11 LU Decomposition.md",
-    "Graph Theory and Algorithms/Practical 03-03-2025.md",
-    "Linear Algebra",
+    "README.md",
+    "Mathematics/Calculus/Integration - 20-02-2025.md",
+    "Computational Thinking",
+    "Algorithms & Data Structures",
+    "Algorithms & Data Structures.md",
+    "Computer Systems",
+    "Mathematics",
+    "Mathematics.md",
+    "Computational Thinking/Logic/Coursework.md",
+    "Computational Thinking/Logic/Practical - 21-02-2025.md",
+    "Mathematics/Linear Algebra/Gram-Schmidt Process.md",
+    "Mathematics/Linear Algebra/18 Linear Regression.md",
+    "conflict-files-obsidian-git.md",
+    "Calculus/Jom's calc.md",
+    "Mathematics/Linear Algebra/Least Squares Solution.md",
+    "Linear Algebra/Jom's algebra.md",
+    "Jom's note.md",
+    "Mathematics/Linear Algebra/QR Decomposition.md",
+    "Mathematics/Calculus/Taylor's Theorem - 13-02-2025.md",
+    "Mathematics/Linear Algebra/11 LU Decomposition.md",
+    "Algorithms & Data Structures/Graph Theory and Algorithms/Practical 03-03-2025.md",
+    "Mathematics/Linear Algebra",
     "Tech Encyclopedia.md",
     "Grade Aims.md",
     "Dream House.md",
-    "Operating Systems/Processes and Threads - 21-02-2025.md",
-    "Operating Systems/Introduction to Operating Systems - 18-02-2025.md",
+    "Computer Systems/Operating Systems/Processes and Threads - 21-02-2025.md",
     "Q1b.svg",
     "Graph Theory and Algorithms/Practical - 24-02-2025.md",
-    "Graph Theory and Algorithms",
-    "Logic/Untitled.md",
-    "Logic",
-    "Operating Systems",
-    "Calculus/Integration - 20-02-2025.md",
+    "Algorithms & Data Structures/Graph Theory and Algorithms",
+    "Computational Thinking/Logic",
+    "Computer Systems/Operating Systems",
     "Calculus/Taylor's Theorem.md",
-    "Test.md",
-    "Calculus"
+    "Mathematics/Calculus"
   ]
 }
