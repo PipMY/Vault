@@ -11,19 +11,14 @@
             "id": "3aef629035ef7d33",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Uni.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false
-                  ]
-                }
+                "file": "Computational Thinking/Logic/Coursework.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Uni"
+              "icon": "lucide-file",
+              "title": "Coursework"
             }
           }
         ]
@@ -170,10 +165,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "1ccc3c494eed8f29",
+  "active": "3aef629035ef7d33",
   "lastOpenFiles": [
-    "Study List.md",
     "Uni.md",
+    "Study List.md",
     "Algorithms & Data Structures/Graph Theory and Algorithms/Practical 03-03-2025.md",
     "Algorithms & Data Structures/Graph Theory and Algorithms",
     "Algorithms & Data Structures",
