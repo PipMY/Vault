@@ -11,14 +11,19 @@
             "id": "3aef629035ef7d33",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Calculus/Integration - 20—02-2025.md",
-                "mode": "source",
-                "source": false
+                "file": "Uni.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false
+                  ]
+                }
               },
-              "icon": "lucide-file",
-              "title": "Integration - 20—02-2025"
+              "icon": "lucide-trello",
+              "title": "Uni"
             }
           }
         ]
@@ -161,29 +166,47 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false
     }
   },
   "active": "1ccc3c494eed8f29",
   "lastOpenFiles": [
-    "Graph Theory and Algorithms/Practical 03-03-2025.md",
-    "Graph Theory and Algorithms",
-    "Calculus/Taylor's Theorem - 13-02-2025.md",
-    "Calculus/Integration - 20—02-2025.md",
-    "Calculus",
-    "README.md",
-    "Linear Algebra/18 Linear Regression.md",
-    "Linear Algebra/Gram-Schmidt Process.md",
-    "Linear Algebra/Least Squares Solution.md",
-    "Linear Algebra/QR Decomposition.md",
-    "Linear Algebra/11 LU Decomposition.md",
-    "Linear Algebra",
     "Study List.md",
-    "Logic/Untitled.md",
-    "Logic/Practical - 21-02-2025.md",
-    "Logic",
-    "Operating Systems/Introduction to Operating Systems - 18-02-2025.md",
-    "Operating Systems/Processes and Threads - 21-02-2025.md",
-    "Operating Systems"
+    "Uni.md",
+    "Algorithms & Data Structures/Graph Theory and Algorithms/Practical 03-03-2025.md",
+    "Algorithms & Data Structures/Graph Theory and Algorithms",
+    "Algorithms & Data Structures",
+    "Computational Thinking/Logic/Practical - 21-02-2025.md",
+    "Computational Thinking/Logic/Coursework.md",
+    "Computational Thinking/Logic",
+    "Computational Thinking",
+    "Computer Systems/Operating Systems/Introduction to Operating Systems - 18-02-2025.md",
+    "Computer Systems/Operating Systems/Processes and Threads - 21-02-2025.md",
+    "Computer Systems/Operating Systems",
+    "Computer Systems",
+    "Mathematics/Calculus/Taylor's Theorem - 13-02-2025.md",
+    "Mathematics/Calculus/Integration - 20-02-2025.md",
+    "Mathematics/Linear Algebra/18 Linear Regression.md",
+    "Mathematics/Linear Algebra/Gram-Schmidt Process.md",
+    "Mathematics/Linear Algebra/Least Squares Solution.md",
+    "Mathematics/Linear Algebra/QR Decomposition.md",
+    "Mathematics/Linear Algebra/11 LU Decomposition.md",
+    "Mathematics/Calculus",
+    "Mathematics/Linear Algebra",
+    "Mathematics",
+    "/Mathematics/Linear Algebra/QR Decomposition.md",
+    "/Mathematics/Linear Algebra/Least Squares Solution.md",
+    "/Mathematics/Linear Algebra/Gram-Schmidt Process.md",
+    "/Mathematics/Linear Algebra/18 Linear Regression.md",
+    "/Mathematics/Linear Algebra/11 LU Decomposition.md",
+    "/Computer Systems/Operating Systems/Processes and Threads - 21-02-2025.md",
+    "/Computer Systems/Operating Systems/Introduction to Operating Systems - 18-02-2025.md",
+    "/Algorithms & Data Structures/Graph Theory and Algorithms/Practical 03-03-2025.md",
+    "/Untitled Kanban.md",
+    "/Mathematics/Calculus/Taylor's Theorem - 13-02-2025.md",
+    "/Computational Thinking/Logic/Practical - 21-02-2025.md",
+    "/Computational Thinking/Logic/Coursework.md",
+    "/Mathematics/Linear Algebra"
   ]
 }
