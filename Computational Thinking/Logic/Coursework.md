@@ -140,7 +140,8 @@
 - Since for each y, we can always find an x, and for each z, we can always find a w that satisfies the relation, the statement holds universally over the domain. Thus, the statement is true.
 
 - (iv) $\exists x\exists y\exists z\forall w(E(x,w)\land E(y,w)\land E(z,w))$
-- There exists an x, y and z such that for all z, $(E(x,w)\land E(y,w)\land E(z,w))$ hold.
+- There exists an x, y and z such that for all w, $(E(x,w)\land E(y,w)\land E(z,w))$ must hold.
+- Intuitively this statement seems false however this is not enough, so we must check for every value of z under every value of y under every value of x
 - 
 
 - (v) 
