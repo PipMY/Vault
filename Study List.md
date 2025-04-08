@@ -8,17 +8,6 @@
 - SQL
 - Relational Calculus and Algebra
 - Multi-User and Distributed Architecture
-# Computational Thinking
-
-- Introduction to Logic
-- Propositional Logic
-- More Propositional Logic
-- Natural Deduction
-- More on Natural Deduction
-- Resolution
-- More on Resolution
-- Introduction to SAT-Solving
-
 # Algorithms & Data Structures 
 
 - ~~Arrays and Lists
