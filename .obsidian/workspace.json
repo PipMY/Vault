@@ -4,26 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "79946537a733f34e",
+        "id": "7b323080f0f29ac5",
         "type": "tabs",
         "children": [
           {
-            "id": "a0bcea21a994ca5b",
+            "id": "80e79bef3e49c388",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Untitled Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false
-                  ]
-                }
+                "file": "Computer Systems/1. Digital Electronics/Notes/6. Circuits.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Untitled Kanban"
+              "icon": "lucide-file",
+              "title": "6. Circuits"
             }
           }
         ]
@@ -178,48 +173,91 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
-      "task-board:Open task board": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a0bcea21a994ca5b",
+  "floating": {
+    "id": "8ea38bebd71bc323",
+    "type": "floating",
+    "children": [
+      {
+        "id": "d71ae090fb85d856",
+        "type": "window",
+        "children": [
+          {
+            "id": "529372811c45cf2a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "9b58820204b87325",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Computer Systems/1. Digital Electronics/Lectures/6. Circuits.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "6. Circuits"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1024,
+        "y": 0,
+        "width": 1024,
+        "height": 1280,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "80e79bef3e49c388",
   "lastOpenFiles": [
-    "Computer Systems/Operating Systems/Introduction to Operating Systems - 18-02-2025.md",
-    "Untitled Kanban.md",
+    "Computer Systems/1. Digital Electronics/Lectures/6. Circuits.pdf",
+    "Computer Systems/1. Digital Electronics/Notes/6. Circuits.md",
+    "Computer Systems/Past Papers/2020.pdf",
+    "Computer Systems/Past Papers/2024.pdf",
+    "Computer Systems/Past Papers/2023.pdf",
+    "Computer Systems/Past Papers/2022.pdf",
+    "Computer Systems/Past Papers/2021.pdf",
+    "Pasted image 20250414131453.png",
+    "Pasted image 20250414125908.png",
+    "Computer Systems/1. Digital Electronics/Notes/5. Karnaugh Maps.md",
+    "Computer Systems/1. Digital Electronics/Notes/4. Boolean Algebra.md",
+    "Computer Systems/1. Digital Electronics/Notes/3. Transistors and Logic Gates.md",
+    "Computer Systems/1. Digital Electronics/Lectures/5. Karnaugh Maps.pdf",
+    "Computer Systems/1. Digital Electronics/Practicals/Questions/4.pdf",
+    "Computer Systems/1. Digital Electronics/Practicals/Questions/3.pdf",
+    "Computer Systems/1. Digital Electronics/Practicals/Questions/2.pdf",
+    "Computer Systems/1. Digital Electronics/Practicals/Solutions/1.md",
     "Study List.md",
+    "Computer Systems/4. Operating Systems/Processes and Threads - 21-02-2025.md",
+    "Computer Systems/4. Operating Systems/Introduction to Operating Systems - 18-02-2025.md",
+    "ADS/Graph Theory and Algorithms/Practical 03-03-2025.md",
+    "MCS/Calculus/Notes/Integration - 20-02-2025.md",
+    "MCS/Linear Algebra/Notes/1 Mathematical Structures.md",
+    "MCS/Linear Algebra/Notes/18 Linear Regression.md",
+    "MCS/Linear Algebra/Notes/11 LU Decomposition.md",
+    "Images/Pasted image 20250412115204.png",
+    "Images/Pasted image 20250412125831.png",
+    "Images/Pasted image 20250412123034.png",
+    "Images/Pasted image 20250412122932.png",
+    "Images/Pasted image 20250412122900.png",
+    "Images/Pasted image 20250412122906.png",
     "README.md",
-    "Mathematics/Calculus/Integration - 20-02-2025.md",
-    "Computational Thinking",
-    "Algorithms & Data Structures",
-    "Algorithms & Data Structures.md",
-    "Computer Systems",
-    "Mathematics",
-    "Mathematics.md",
     "Computational Thinking/Logic/Coursework.md",
-    "Computational Thinking/Logic/Practical - 21-02-2025.md",
-    "Mathematics/Linear Algebra/Gram-Schmidt Process.md",
-    "Mathematics/Linear Algebra/18 Linear Regression.md",
-    "conflict-files-obsidian-git.md",
-    "Calculus/Jom's calc.md",
-    "Mathematics/Linear Algebra/Least Squares Solution.md",
-    "Linear Algebra/Jom's algebra.md",
-    "Jom's note.md",
-    "Mathematics/Linear Algebra/QR Decomposition.md",
-    "Mathematics/Calculus/Taylor's Theorem - 13-02-2025.md",
-    "Mathematics/Linear Algebra/11 LU Decomposition.md",
-    "Algorithms & Data Structures/Graph Theory and Algorithms/Practical 03-03-2025.md",
-    "Mathematics/Linear Algebra",
-    "Tech Encyclopedia.md",
-    "Grade Aims.md",
-    "Dream House.md",
-    "Computer Systems/Operating Systems/Processes and Threads - 21-02-2025.md",
-    "Q1b.svg",
-    "Graph Theory and Algorithms/Practical - 24-02-2025.md",
-    "Algorithms & Data Structures/Graph Theory and Algorithms",
-    "Computational Thinking/Logic",
-    "Computer Systems/Operating Systems",
-    "Calculus/Taylor's Theorem.md",
-    "Mathematics/Calculus"
+    "Written Logic Coursework.md",
+    "Untitled.md",
+    "University Board.md",
+    "MCS/Linear Algebra/Notes/Gram-Schmidt Process.md",
+    "MCS/Linear Algebra/Notes/Least Squares Solution.md",
+    "MCS/Calculus/Notes/Taylor's Theorem - 13-02-2025.md",
+    "Mathematics/Linear Algebra/1-10 Lecture Notes/Linear Maps.md",
+    "Mathematics/Linear Algebra/1-10 Lecture Notes/Linear Combination.md",
+    "Mathematics/Linear Algebra/1-10 Lecture Notes/Mathematical Structures.md",
+    "Mathematics/Linear Algebra/1-10 Lecture Notes/Determinant.md",
+    "Q1b.svg"
   ]
 }

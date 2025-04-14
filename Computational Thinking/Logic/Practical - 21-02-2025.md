@@ -1,5 +1,0 @@
-### **Question 1: Resolution from Clauses**
-
-1. We can resolve on $p$ with the two clauses: $(p \lor q)$ and $(\neg p \lor r)$ $\implies$ $(q \lor r)$ then we can resolve on $r$ with this we can then resolve on r with the clauses: $(q \lor r)$ and $(\neg p \lor \neg r)$ $\implies$ $(q \lor \neg p)$. Then we can resolve on $q$ and $\neg p$ in the clauses: $(p \lor \neg q)$ and the formed clause: $(q \lor \neg p)$ $\implies$ $\bot$. So the set of clauses in unsatisfiable.
-2. $p \lor q \lor \neg r \lor s$ and $\neg p \lor r \lor s$ $\implies$ $q \lor s$, $\neg p \lor \neg r$ and $r$ $\implies$ $\neg p$, $p \lor \neg s$ and $\neg p$ $\implies$ $\neg s$, $q \lor s$ and $\neg s$ $\implies$ $q$, $\neg q \lor \neg r$ and $q$ $\implies$ $\neg r$ $r$ and $\neg r$ $\implies$ $\bot$. So the set of clauses in unsatisfiable.
-3. 
