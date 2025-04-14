@@ -1,5 +1,6 @@
 # Computer Systems 
 
+<<<<<<< HEAD
 ## Digital Electronics
 ## Transistors and Logic Gates![[3. Transistors and Logic Gates.pdf]]
 - [x] Notes
@@ -9,7 +10,7 @@
 - [ ] Practicals
 
 ## Karnaugh Maps![[5. Karnaugh Maps.pdf]]
-- [ ] Notes
+- [x] Notes
 - [ ] Practicals
 ## Circuits![[6. Circuits.pdf]]
 - [ ] Notes
@@ -45,6 +46,16 @@
 - [ ] Karnaugh Maps
 - [ ] Circuits
 
+=======
+- Database Design
+- Relational Data Model
+- Entity Relationship Model
+- Functional Dependencies
+- Normalisation 
+- SQL
+- Relational Calculus and Algebra
+- Multi-User and Distributed Architecture
+>>>>>>> origin/main
 # Algorithms & Data Structures 
 
 # Calculus 
