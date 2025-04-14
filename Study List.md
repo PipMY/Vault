@@ -1,6 +1,5 @@
 # Computer Systems 
 
-<<<<<<< HEAD
 ## Digital Electronics
 ## Transistors and Logic Gates![[3. Transistors and Logic Gates.pdf]]
 - [x] Notes
