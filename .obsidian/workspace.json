@@ -1,0 +1,228 @@
+{
+  "main": {
+    "id": "db6ef1baddcfad99",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2d1818a98627ca1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3870a38b17886998",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "ADS/Asymptotic Notation and Sorting/Lectures/Extra Material/asymptotics-cheatsheet.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "asymptotics-cheatsheet"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8d3dc2fba55e5923",
+    "type": "split",
+    "children": [
+      {
+        "id": "c6a896433259f8ec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b5bae625356abef",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3f44334f8235e5a1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "39ee116622ef473e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 214.5110321044922
+  },
+  "right": {
+    "id": "96c96b613adc3c65",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8fcebd6a7045bb4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "55eeea4cf9e2b70e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "31af51f8d9bce291",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "9896cf2ad1b0d270",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5b7cfcb942ed6cb7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "487f5fcef84d0708",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "8b5bae625356abef",
+  "lastOpenFiles": [
+    "Wishlist/Templates/Wishlist Item Templates.md",
+    "Daily Notes/29-04-2025.md",
+    "Daily Notes/02-05-2025.md",
+    "Daily Notes/01-05-2025.md",
+    "Daily Notes/30-04-2025.md",
+    "ADS/Asymptotic Notation and Sorting/Notes/1-2. Asymptotic Notation.md",
+    "ADS/Asymptotic Notation and Sorting/Lectures/1-2.pdf",
+    "README.md",
+    "ADS/Asymptotic Notation and Sorting/Practicals/Questions/1.pdf",
+    "ADS/Past Papers/2024.pdf",
+    "ADS/Past Papers/2022.pdf",
+    "ADS/Past Papers/2023.pdf",
+    "ADS/Asymptotic Notation and Sorting/Practicals/Questions/3.pdf",
+    "ADS/Asymptotic Notation and Sorting/Practicals/Questions/2b.pdf",
+    "ADS/Asymptotic Notation and Sorting/Practicals/Questions/2.pdf",
+    "Wishlist/Le Creuset.md",
+    "Wishlist/PC.md",
+    "Wishlist/Wishlist Dashboard.md",
+    "Wishlist/Pizza.md",
+    "Wishlist/Templates/Untitled.md",
+    "Untitled Kanban.md",
+    "Untitled Kanban 1.md",
+    "Wishlist/Wishlist Kanban.md",
+    "Wishlist/Untitled Kanban.md",
+    "Wishlist/Pan.md",
+    "Wishlist/New Laptop.md",
+    "Wish List/---.md",
+    "Wishlist/Templates",
+    "Wishlist",
+    "Wish List/Master List.md",
+    "Wish List/Categories/Kitchen.md",
+    "Wish List/Categories/Travel.md",
+    "Wish List/Acquired.md",
+    "Wish List/Categories/Untitled.md",
+    "Wish Lists/Wishlist Template.md",
+    "Wish Lists/Categories/Clothes.md",
+    "Images/Pasted image 20250416200541.png",
+    "Images/Pasted image 20250416201201.png",
+    "Images/Pasted image 20250416200645.png",
+    "Images/Pasted image 20250414210050.png",
+    "Images/Pasted image 20250414210021.png",
+    "Images/Pasted image 20250414204436.png",
+    "Images/Pasted image 20250414125908.png",
+    "Images/Pasted image 20250414131453.png",
+    "Images/Pasted image 20250412115204.png",
+    "Images/Pasted image 20250412125831.png"
+  ]
+}

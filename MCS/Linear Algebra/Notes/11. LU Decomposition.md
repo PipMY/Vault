@@ -1,0 +1,164 @@
+## **1. Introduction to LU Decomposition**
+
+LU decomposition is a matrix factorization technique used in numerical analysis and linear algebra to simplify solving linear systems. It expresses a square matrix $A$ as the product of a lower triangular matrix $L$ and an upper triangular matrix $U$.
+
+### **Key Ideas:**
+
+- LU decomposition simplifies solving systems of equations by breaking them into two triangular systems.
+- It is an alternative to Gaussian elimination and can be more efficient in practice.
+- Not all matrices have an LU decomposition unless certain conditions are met.
+
+---
+
+## **2. Recap: Gaussian Elimination**
+
+Gaussian elimination is a method for solving linear systems by performing elementary row operations:
+
+1. **Swapping two rows**
+2. **Multiplying a row by a nonzero scalar**
+3. **Adding a multiple of one row to another**
+
+These operations transform a matrix into an upper triangular form, which can then be solved using **back-substitution**.
+
+---
+
+## **3. LU Decomposition: Definition**
+
+### **Definition**
+
+An LU decomposition (or LU factorization) of a square matrix $A$ is given by:
+
+$$A=LU$$
+
+where:
+
+- $L$ is a **lower triangular** matrix (entries below the diagonal are nonzero, entries above are zero).
+- $U$ is an **upper triangular** matrix (entries above the diagonal are nonzero, entries below are zero).
+
+#### **Example**
+$$
+A = \begin{bmatrix}
+2 & 6 & 2 \\ -3 & -8 & 0 \\ 4 & 9 & 2 
+\end{bmatrix} = \begin{bmatrix}
+2 & 0 & 0 \\ 0 & 1 & 3 \\ 4  & -3 & 7
+\end{bmatrix} \begin{bmatrix}
+1 & 3 & 1 \\ 0 & 1 & 3 \\ 0 & 0 & 1
+\end{bmatrix} = LU
+$$
+---
+## **4. Application: Solving Linear Systems with LU Decomposition**
+
+Given $Ax=b$, using LU decomposition, we:
+
+1. Rewrite as $LUx=b$.
+2. Let $Ux=y$ and solve $Ly=b$ (forward substitution).
+3. Solve $Ux=y$ (back-substitution).
+
+This approach is computationally efficient, especially when solving multiple systems with the same coefficient matrix.
+
+---
+## **5. Existence of LU Decomposition**
+
+For LU decomposition to exist:
+
+- **Gaussian elimination must proceed without row swaps**.
+- If row exchanges are required (i.e., a zero pivot appears), standard LU decomposition **fails**.
+- Solution: Use **PLU decomposition** instead.
+
+### **Theorem**
+
+If a square matrix $A$ can be transformed into an upper triangular matrix $U$ **without row exchanges**, then $A$ can be factored as $A=LU$
+
+---
+## **6. Finding LU Decomposition**
+
+LU decomposition can be constructed using **elementary matrices** that track row operations in Gaussian elimination.
+
+### **Algorithm:**
+
+1. Use Gaussian elimination to obtain an upper triangular matrix UUU.
+2. Record row operations as elementary matrices.
+3. Compute LLL as the product of the **inverse** of these elementary matrices.
+
+#### **Example:**
+
+For
+$$A = \begin{bmatrix}
+2 & -4 \\ 3 & -2
+\end{bmatrix}$$
+LU decomposition results in:
+
+$$L = \begin{bmatrix}
+2 & 0 \\ 3 & 4
+\end{bmatrix}, \space \space U=\begin{bmatrix}
+1 & -2 \\ 0 & 1
+\end{bmatrix}
+$$
+
+---
+## **7. Permutation Matrices & PLU Decomposition**
+
+If an LU decomposition does not exist (due to row swaps being required), we use **PLU decomposition**:
+$$
+A = PLU
+$$
+where:
+
+- $P$ is a **permutation matrix** that reorders rows.
+- $L$ is a lower triangular matrix.
+- $U$ is an upper triangular matrix.
+
+### **Permutation Matrix Definition**
+
+A **permutation matrix** is obtained by swapping rows of an identity matrix.
+
+#### **Example**
+
+$$
+P=\begin{bmatrix}
+0 & 0 & 1 \\ 0 & 1 & 0 \\ 1 & 0 & 0
+\end{bmatrix}
+$$
+
+Permuting a matrix $A$ with $P$ swaps its rows accordingly.
+
+**Theorem:** Every square matrix has a **PLU decomposition** (proof omitted).
+
+---
+
+## **8. Advantages of LU Decomposition**
+
+- More **efficient** than Gaussian elimination when solving multiple linear systems with the same $A$.
+- Used in **scientific computing**, **machine learning**, and **numerical analysis**.
+- Implemented in libraries like **NumPy** and **SciPy**.
+- Faster than computing $A^{-1}$ directly.
+
+---
+
+## **9. Example: Solving a Linear System Using LU**
+
+Given the system:
+
+$$
+Ax = \begin{bmatrix}
+2 & 6 & 2 \\ -3 & -8 & 0 \\ 4 & 9 & 2
+\end{bmatrix}\begin{bmatrix}
+x_{1} \\ x_{2} \\ x_{3}
+\end{bmatrix}=\begin{bmatrix}
+2 \\ 2 \\3
+\end{bmatrix}
+$$
+
+1. Compute LU decomposition:
+
+$$
+A = LU
+$$
+1. Solve $Ly=b$ using forward substitution.
+2. Solve $Ux=y$ using back-substitution.
+
+**Solution:**
+
+$$
+x_{1}=2, x_{2}=-1, x_{3}=2
+$$
