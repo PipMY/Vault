@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MCS/Linear Algebra/Notes/11. LU Decomposition.md",
+                "file": "Computer Systems/1. Digital Electronics/Notes/3. Transistors and Logic Gates.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11. LU Decomposition"
+              "title": "3. Transistors and Logic Gates"
             }
           }
         ]
@@ -180,17 +180,22 @@
   },
   "active": "3870a38b17886998",
   "lastOpenFiles": [
-    "MCS/Linear Algebra/Notes/18 Linear Regression.md",
+    "Computer Systems/1. Digital Electronics/Notes/4. Boolean Algebra.md",
+    "Computer Systems/1. Digital Electronics/Notes/5. Karnaugh Maps.md",
+    "Computer Systems/1. Digital Electronics/Notes/6. Circuits.md",
+    "MCS/Calculus/Notes/1. Lagrange Multipliers.md",
     "MCS/Linear Algebra/Notes/11. LU Decomposition.md",
+    "MCS/Linear Algebra/Notes/18 Linear Regression.md",
     "MCS/Linear Algebra/Notes/Gram-Schmidt Process.md",
-    "MCS/Linear Algebra/Notes/QR Decomposition.md",
     "MCS/Linear Algebra/Notes/Least Squares Solution.md",
+    "MCS/Linear Algebra/Lectures/14.pdf",
+    "MCS/Linear Algebra/Lectures/13..pdf",
+    "MCS/Linear Algebra/Notes/QR Decomposition.md",
     "MCS/Linear Algebra/Notes/1 Mathematical Structures.md",
     "MCS/Linear Algebra/Lectures/11. LU Decomposition.pdf",
     "MCS/Calculus/Practicals/Questions/1-2.pdf",
     "MCS/Calculus/Practicals/Questions/3.pdf",
     "MCS/Calculus/Notes/2. Series.md",
-    "MCS/Calculus/Notes/1. Lagrange Multipliers.md",
     "MCS/Calculus/Notes/5. Taylor's Theorem.md",
     "MCS/Calculus/Notes/6. Integration.md",
     "MCS/Calculus/Lectures/2. Series.pdf",
@@ -205,17 +210,12 @@
     "ADS/Asymptotic Notation and Sorting/Lectures/1-2.pdf",
     "README.md",
     "ADS/Asymptotic Notation and Sorting/Practicals/Questions/1.pdf",
-    "ADS/Past Papers/2024.pdf",
-    "ADS/Past Papers/2022.pdf",
     "Wishlist/Le Creuset.md",
     "Wishlist/PC.md",
     "Wishlist/Wishlist Dashboard.md",
     "Wishlist/Pizza.md",
     "Wishlist/Templates/Untitled.md",
     "Untitled Kanban.md",
-    "Untitled Kanban 1.md",
-    "Wishlist/Wishlist Kanban.md",
-    "Wishlist/Untitled Kanban.md",
     "Images/Pasted image 20250416200541.png",
     "Images/Pasted image 20250416201201.png",
     "Images/Pasted image 20250416200645.png",
