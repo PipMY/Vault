@@ -11,12 +11,14 @@
             "id": "3870a38b17886998",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "ADS/Asymptotic Notation and Sorting/Lectures/Extra Material/asymptotics-cheatsheet.pdf"
+                "file": "Daily Notes/02-05-2025.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "asymptotics-cheatsheet"
+              "icon": "lucide-file",
+              "title": "02-05-2025"
             }
           }
         ]
@@ -176,8 +178,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8b5bae625356abef",
+  "active": "3870a38b17886998",
   "lastOpenFiles": [
+    "ADS/Asymptotic Notation and Sorting/Lectures/Extra Material/asymptotics-cheatsheet.pdf",
     "Wishlist/Templates/Wishlist Item Templates.md",
     "Daily Notes/29-04-2025.md",
     "Daily Notes/02-05-2025.md",
@@ -213,7 +216,6 @@
     "Wish List/Acquired.md",
     "Wish List/Categories/Untitled.md",
     "Wish Lists/Wishlist Template.md",
-    "Wish Lists/Categories/Clothes.md",
     "Images/Pasted image 20250416200541.png",
     "Images/Pasted image 20250416201201.png",
     "Images/Pasted image 20250416200645.png",
