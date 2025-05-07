@@ -4,21 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "e2d1818a98627ca1",
+        "id": "27a62a4fd1ef5f6f",
         "type": "tabs",
         "children": [
           {
-            "id": "3870a38b17886998",
+            "id": "eee600e52165f9cb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/02-05-2025.md",
+                "file": "ADS/Selection and Data Structures/Notes/1. Algorithms for Sorting, Searching and Selection.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02-05-2025"
+              "title": "1. Algorithms for Sorting, Searching and Selection"
+            }
+          }
+        ]
+      },
+      {
+        "id": "935983ed2fac9701",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d2cae55f032053e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "ADS/Selection and Data Structures/Lectures/1.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "1"
             }
           }
         ]
@@ -178,20 +196,32 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3870a38b17886998",
+  "active": "eee600e52165f9cb",
   "lastOpenFiles": [
-    "ADS/Asymptotic Notation and Sorting/Practicals/Questions/5.pdf",
-    "ADS/Asymptotic Notation and Sorting/Practicals/Solutions/3.pdf",
-    "ADS/Asymptotic Notation and Sorting/Practicals/Solutions/2.pdf",
-    "ADS/Asymptotic Notation and Sorting/Practicals/Solutions/1.pdf",
-    "ADS/Asymptotic Notation and Sorting/Practicals/Questions/3.pdf",
-    "ADS/Asymptotic Notation and Sorting/Practicals/Solutions/mm-proof.pdf",
-    "ADS/Asymptotic Notation and Sorting/Practicals/Solutions/4.pdf",
-    "ADS/Asymptotic Notation and Sorting/Practicals/Solutions/5.pdf",
-    "ADS/Asymptotic Notation and Sorting/Practicals/Questions/2.pdf",
-    "ADS/Asymptotic Notation and Sorting/Lectures/1-2.pdf",
-    "ADS/Asymptotic Notation and Sorting/Lectures/3.pdf",
+    "Daily Notes/07-05-2025.md",
+    "ADS/Selection and Data Structures/Notes/1. Algorithms for Sorting, Searching and Selection.md",
+    "ADS/Selection and Data Structures/Lectures/1.pdf",
+    "ADS/Asymptotic Notation and Sorting/Notes/5. QuickSort.md",
+    "MCS/Calculus/Notes/2. Series.md",
+    "Daily Notes/06-05-2025.md",
+    "ADS/Selection and Data Structures/Lectures/Revision.pdf",
     "ADS/Asymptotic Notation and Sorting/Notes/1-2. Asymptotic Notation.md",
+    "ADS/Selection and Data Structures/Lectures/2.pdf",
+    "ADS/Selection and Data Structures/Lectures/3.pdf",
+    "ADS/Selection and Data Structures/Lectures/4.pdf",
+    "ADS/Selection and Data Structures/Lectures/5.pdf",
+    "ADS/Selection and Data Structures/Practicals/Solutions",
+    "ADS/Selection and Data Structures/Practicals/Questions",
+    "ADS/Selection and Data Structures/Practicals",
+    "ADS/Selection and Data Structures/Notes",
+    "ADS/Asymptotic Notation and Sorting/Notes/4. Recurrences.md",
+    "ADS/Asymptotic Notation and Sorting/Notes/3. Sorting.md",
+    "Study List.md",
+    "Daily Notes/05-05-2025.md",
+    "Daily Notes/04-05-2025.md",
+    "Daily Notes/01-05-2025.md",
+    "Daily Notes/02-05-2025.md",
+    "Daily Notes/03-05-2025.md",
     "Computer Systems/1. Digital Electronics/Notes/3. Transistors and Logic Gates.md",
     "Computer Systems/1. Digital Electronics/Notes/4. Boolean Algebra.md",
     "Computer Systems/1. Digital Electronics/Notes/5. Karnaugh Maps.md",
@@ -203,19 +233,6 @@
     "MCS/Linear Algebra/Notes/Least Squares Solution.md",
     "MCS/Linear Algebra/Notes/QR Decomposition.md",
     "MCS/Linear Algebra/Notes/1 Mathematical Structures.md",
-    "MCS/Calculus/Notes/2. Series.md",
-    "MCS/Calculus/Notes/5. Taylor's Theorem.md",
-    "MCS/Calculus/Notes/6. Integration.md",
-    "Daily Notes/02-05-2025.md",
-    "Wishlist/Templates/Wishlist Item Templates.md",
-    "Daily Notes/29-04-2025.md",
-    "Daily Notes/01-05-2025.md",
-    "Daily Notes/30-04-2025.md",
-    "README.md",
-    "Wishlist/Le Creuset.md",
-    "Wishlist/PC.md",
-    "Wishlist/Wishlist Dashboard.md",
-    "Wishlist/Pizza.md",
     "Images/Pasted image 20250416200541.png",
     "Images/Pasted image 20250416201201.png",
     "Images/Pasted image 20250416200645.png",
