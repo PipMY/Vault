@@ -8,35 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "eee600e52165f9cb",
+            "id": "f5bde96ea8d15084",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ADS/Selection and Data Structures/Notes/1. Algorithms for Sorting, Searching and Selection.md",
+                "file": "ADS/3. Selection and Data Structures/Notes/2. Binary Search Trees.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Algorithms for Sorting, Searching and Selection"
+              "title": "2. Binary Search Trees"
             }
           }
         ]
       },
       {
-        "id": "935983ed2fac9701",
+        "id": "f54c03c91271a083",
         "type": "tabs",
         "children": [
           {
-            "id": "7d2cae55f032053e",
+            "id": "49bbdd3f313bd53b",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "ADS/Selection and Data Structures/Lectures/1.pdf"
+                "file": "ADS/3. Selection and Data Structures/Lectures/2.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "1"
+              "title": "2"
             }
           }
         ]
@@ -196,26 +196,31 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "eee600e52165f9cb",
+  "active": "f5bde96ea8d15084",
   "lastOpenFiles": [
+    "ADS/3. Selection and Data Structures/Lectures/2.pdf",
+    "ADS/3. Selection and Data Structures/Notes/2. Binary Search Trees.md",
+    "ADS/2. Asymptotic Notation and Sorting/Practicals/Solutions/3.pdf",
+    "ADS/2. Asymptotic Notation and Sorting/Practicals/Solutions/1.pdf",
+    "ADS/2. Asymptotic Notation and Sorting/Notes/5. QuickSort.md",
+    "ADS/2. Asymptotic Notation and Sorting/Lectures/4.pdf",
+    "ADS/2. Asymptotic Notation and Sorting/Notes/4. Recurrences.md",
+    "Computer Systems/Past Papers/2023.pdf",
+    "Computer Systems/Past Papers/2024.pdf",
+    "ADS/3. Selection and Data Structures/Notes/1. Algorithms for Sorting, Searching and Selection.md",
+    "ADS/2. Asymptotic Notation and Sorting/Notes/3. Sorting.md",
+    "ADS/2. Asymptotic Notation and Sorting/Lectures/3.pdf",
+    "ADS/3. Selection and Data Structures/Lectures/1.pdf",
+    "ADS/3. Selection and Data Structures/Lectures/5.pdf",
+    "ADS/3. Selection and Data Structures/Lectures/Revision.pdf",
+    "ADS/2. Asymptotic Notation and Sorting/Notes/1-2. Asymptotic Notation.md",
+    "Daily Notes/09-05-2025.md",
+    "Daily Notes/08-05-2025.md",
+    "ADS/1. Fundamental Data Structures/Notes/4. Hash Tables.md",
+    "ADS/1. Fundamental Data Structures/Notes/2. Introduction and Pseudocode.md",
     "Daily Notes/07-05-2025.md",
-    "ADS/Selection and Data Structures/Notes/1. Algorithms for Sorting, Searching and Selection.md",
-    "ADS/Selection and Data Structures/Lectures/1.pdf",
-    "ADS/Asymptotic Notation and Sorting/Notes/5. QuickSort.md",
     "MCS/Calculus/Notes/2. Series.md",
     "Daily Notes/06-05-2025.md",
-    "ADS/Selection and Data Structures/Lectures/Revision.pdf",
-    "ADS/Asymptotic Notation and Sorting/Notes/1-2. Asymptotic Notation.md",
-    "ADS/Selection and Data Structures/Lectures/2.pdf",
-    "ADS/Selection and Data Structures/Lectures/3.pdf",
-    "ADS/Selection and Data Structures/Lectures/4.pdf",
-    "ADS/Selection and Data Structures/Lectures/5.pdf",
-    "ADS/Selection and Data Structures/Practicals/Solutions",
-    "ADS/Selection and Data Structures/Practicals/Questions",
-    "ADS/Selection and Data Structures/Practicals",
-    "ADS/Selection and Data Structures/Notes",
-    "ADS/Asymptotic Notation and Sorting/Notes/4. Recurrences.md",
-    "ADS/Asymptotic Notation and Sorting/Notes/3. Sorting.md",
     "Study List.md",
     "Daily Notes/05-05-2025.md",
     "Daily Notes/04-05-2025.md",
@@ -228,11 +233,6 @@
     "Computer Systems/1. Digital Electronics/Notes/6. Circuits.md",
     "MCS/Calculus/Notes/1. Lagrange Multipliers.md",
     "MCS/Linear Algebra/Notes/11. LU Decomposition.md",
-    "MCS/Linear Algebra/Notes/18 Linear Regression.md",
-    "MCS/Linear Algebra/Notes/Gram-Schmidt Process.md",
-    "MCS/Linear Algebra/Notes/Least Squares Solution.md",
-    "MCS/Linear Algebra/Notes/QR Decomposition.md",
-    "MCS/Linear Algebra/Notes/1 Mathematical Structures.md",
     "Images/Pasted image 20250416200541.png",
     "Images/Pasted image 20250416201201.png",
     "Images/Pasted image 20250416200645.png",
