@@ -1,7 +1,7 @@
 [
   "obsidian-git",
   "obsidian-latex-suite",
-  "dataview",
-  "obsidian-kanban",
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-tikzjax",
+  "table-checkboxes"
 ]
