@@ -6,6 +6,7 @@
       {
         "id": "f1593c5a84f6aee9",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "9c13c30096f61573",
@@ -13,42 +14,34 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ADS/3. Selection and Data Structures/Notes/3. Balanced BSTs and AVL Trees.md",
+                "file": "ADS/3. Selection and Data Structures/Notes/4. Heaps.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Balanced BSTs and AVL Trees"
-            }
-          },
-          {
-            "id": "21fb182968201f88",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/Pasted image 20250512133525.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250512133525"
-            }
-          },
-          {
-            "id": "bc079d97733c7469",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ADS/3. Selection and Data Structures/Notes/3. Balanced BSTs and AVL Trees.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3. Balanced BSTs and AVL Trees"
+              "title": "4. Heaps"
             }
           }
-        ],
-        "currentTab": 2
+        ]
+      },
+      {
+        "id": "c57518097d2ccade",
+        "type": "tabs",
+        "dimension": 50,
+        "children": [
+          {
+            "id": "392a1a70659301c1",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "ADS/3. Selection and Data Structures/Lectures/4.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "4"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 214.5110321044922
+    "width": 200
   },
   "right": {
     "id": "96c96b613adc3c65",
@@ -204,33 +197,37 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bc079d97733c7469",
+  "active": "9c13c30096f61573",
   "lastOpenFiles": [
-    "ADS/3. Selection and Data Structures/Notes/2. Binary Search Trees.md",
+    "Images/Pasted image 20250513004601.png",
+    "ADS/3. Selection and Data Structures/Notes/4. Heaps.md",
+    "Images/Pasted image 20250513012831.png",
+    "ADS/3. Selection and Data Structures/Lectures/4.pdf",
+    "Images/Pasted image 20250513011522.png",
     "ADS/3. Selection and Data Structures/Notes/3. Balanced BSTs and AVL Trees.md",
     "ADS/3. Selection and Data Structures/Lectures/3.pdf",
+    "Images/Pasted image 20250512201403.png",
+    "Images/Pasted image 20250512133525.png",
+    "Daily Notes/13-05-2025.md",
+    "Daily Notes/12-05-2025.md",
+    "Images/Pasted image 20250512201818.png",
+    "ADS/3. Selection and Data Structures/Notes/2. Binary Search Trees.md",
     "ADS/Past Papers/2024.pdf",
     "ADS/Past Papers/2023.pdf",
     "ADS/Past Papers/2022.pdf",
     "ADS/Past Papers/2021.pdf",
     "ADS/Past Papers/2020.pdf",
-    "Daily Notes/12-05-2025.md",
     "Images/Pasted image 20250512133906.png",
-    "Images/Pasted image 20250512133525.png",
     "Images/Pasted image 20250512132004.png",
     "Images/Pasted image 20250512131237.png",
     "Images/Pasted image 20250512131352.png",
     "Daily Notes/11-05-2025.md",
     "Daily Notes/10-05-2025.md",
-    "Images/Pasted image 20250509195435.png",
     "Study List.md",
-    "Images/Pasted image 20250509201743.png",
-    "Images/Pasted image 20250509201725.png",
     "Daily Notes/09-05-2025.md",
     "ADS/3. Selection and Data Structures/Lectures/2.pdf",
     "ADS/4. Graph Theory and Algorithms/Practicals",
     "ADS/4. Graph Theory and Algorithms/Notes",
-    "ADS/4. Graph Theory and Algorithms/Lectures",
     "ADS/2. Asymptotic Notation and Sorting/Notes/5. QuickSort.md",
     "ADS/2. Asymptotic Notation and Sorting/Notes/4. Recurrences.md",
     "ADS/3. Selection and Data Structures/Notes/1. Algorithms for Sorting, Searching and Selection.md",
@@ -246,10 +243,6 @@
     "Daily Notes/04-05-2025.md",
     "Daily Notes/01-05-2025.md",
     "Daily Notes/02-05-2025.md",
-    "Daily Notes/03-05-2025.md",
-    "Computer Systems/1. Digital Electronics/Notes/3. Transistors and Logic Gates.md",
-    "Computer Systems/1. Digital Electronics/Notes/4. Boolean Algebra.md",
-    "Images/Pasted image 20250416200541.png",
-    "Images/Pasted image 20250416201201.png"
+    "Daily Notes/03-05-2025.md"
   ]
 }
