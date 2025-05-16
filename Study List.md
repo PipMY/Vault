@@ -15,19 +15,19 @@
 - [x] Notes
 - [ ] Practicals
 # Machine Architecture
-## MIPS ![[MIPS.pdf]]
+## MIPS ![[4. MIPS.pdf]]
 - [ ] Notes
 - [ ] Practicals
-## MIPS - Memory Map and Addressing Modes![[MIPS - Memory Map and Addressing Modes.pdf]]
+## MIPS - Memory Map and Addressing Modes![[5. MIPS - Memory Map and Addressing Modes.pdf]]
 - [ ] Notes
 - [ ] Practicals
-## MIPS - Programming![[MIPS - Programming.pdf]]
+## MIPS - Programming![[6. MIPS - Programming.pdf]]
 - [ ] Notes
 - [ ] Practicals
-## ATmega328P: registers, memory map, I/O![[ATmega328P registers, memory map, IO.pdf]]
+## ATmega328P: registers, memory map, I/O![[7. ATmega328P registers, memory map, IO.pdf]]
 - [ ] Notes
 - [ ] Practicals
-## Programming in AVR assembly![[Programming in AVR assembly.pdf]]
+## Programming in AVR assembly![[8. Programming in AVR assembly.pdf]]
 - [ ] Notes
 - [ ] Practicals
 ## Databases
