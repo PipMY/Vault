@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Systems/2. Machine Architecture/Notes/5. MIPS - Memory Map and Addressing Modes.md",
+                "file": "Personal/Project Ideas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. MIPS - Memory Map and Addressing Modes"
+              "title": "Project Ideas"
             }
           }
         ]
@@ -33,10 +33,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Computer Systems/2. Machine Architecture/Lectures/5. MIPS - Memory Map and Addressing Modes.pdf"
+                "file": "Computer Systems/2. Machine Architecture/Lectures/6. MIPS - Programming.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "5. MIPS - Memory Map and Addressing Modes"
+              "title": "6. MIPS - Programming"
             }
           }
         ]
@@ -197,19 +197,23 @@
   },
   "active": "9935997675a69e1c",
   "lastOpenFiles": [
+    "Computer Systems/2. Machine Architecture/Notes/6. MIPS - Programming.md",
+    "Personal/Project Ideas.md",
+    "Personal",
+    "Computer Systems/2. Machine Architecture/Notes/5. MIPS - Memory Map and Addressing Modes.md",
+    "Daily Notes/17-05-2025.md",
+    "Computer Systems/2. Machine Architecture/Lectures/6. MIPS - Programming.pdf",
+    "Computer Systems/2. Machine Architecture/Lectures/7. ATmega328P registers, memory map, IO.pdf",
+    "Computer Systems/2. Machine Architecture/Lectures/8. Programming in AVR assembly.pdf",
+    "Computer Systems/2. Machine Architecture/Lectures/5. MIPS - Memory Map and Addressing Modes.pdf",
     "Computer Systems/1. Digital Electronics/Notes/3. Transistors and Logic Gates.md",
     "Computer Systems/1. Digital Electronics/Notes/4. Boolean Algebra.md",
     "Computer Systems/1. Digital Electronics/Notes/5. Karnaugh Maps.md",
     "Computer Systems/1. Digital Electronics/Notes/6. Circuits.md",
-    "Computer Systems/2. Machine Architecture/Notes/5. MIPS - Memory Map and Addressing Modes.md",
     "Daily Notes/16-05-2025.md",
     "Daily Notes/15-05-2025.md",
-    "Computer Systems/2. Machine Architecture/Lectures/5. MIPS - Memory Map and Addressing Modes.pdf",
     "Computer Systems/2. Machine Architecture/Notes/4. MIPS.md",
     "Computer Systems/2. Machine Architecture/Lectures/4. MIPS.pdf",
-    "Computer Systems/2. Machine Architecture/Lectures/6. MIPS - Programming.pdf",
-    "Computer Systems/2. Machine Architecture/Lectures/8. Programming in AVR assembly.pdf",
-    "Computer Systems/2. Machine Architecture/Lectures/7. ATmega328P registers, memory map, IO.pdf",
     "ADS/3. Selection and Data Structures/Notes/5. Lower Bounds.md",
     "Daily Notes/14-05-2025.md",
     "ADS/2. Asymptotic Notation and Sorting/Notes/3. Sorting.md",
@@ -222,7 +226,6 @@
     "ADS/2. Asymptotic Notation and Sorting/Practicals/Questions/1.pdf",
     "ADS/2. Asymptotic Notation and Sorting/Notes/5. QuickSort.md",
     "ADS/2. Asymptotic Notation and Sorting/Notes/4. Recurrences.md",
-    "ADS/1. Fundamental Data Structures/Lectures/1.pdf",
     "Daily Notes/13-05-2025.md",
     "ADS/1. Fundamental Data Structures/Notes/3. Stacks and Queues.md",
     "ADS/3. Selection and Data Structures/Notes/1. Algorithms for Sorting, Searching and Selection.md",
@@ -239,9 +242,6 @@
     "Images/Pasted image 20250512133906.png",
     "Images/Pasted image 20250512132004.png",
     "Images/Pasted image 20250512131237.png",
-    "Images/Pasted image 20250512131352.png",
-    "Daily Notes/11-05-2025.md",
-    "Daily Notes/10-05-2025.md",
-    "Study List.md"
+    "Images/Pasted image 20250512131352.png"
   ]
 }
