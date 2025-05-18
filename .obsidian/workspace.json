@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Project Ideas.md",
+                "file": "Computer Systems/2. Machine Architecture/Notes/7. ATmega328P.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Project Ideas"
+              "title": "7. ATmega328P"
             }
           }
         ]
@@ -33,10 +33,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Computer Systems/2. Machine Architecture/Lectures/6. MIPS - Programming.pdf"
+                "file": "Computer Systems/2. Machine Architecture/Lectures/7. ATmega328P registers, memory map, IO.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "6. MIPS - Programming"
+              "title": "7. ATmega328P registers, memory map, IO"
             }
           }
         ]
@@ -198,12 +198,13 @@
   "active": "9935997675a69e1c",
   "lastOpenFiles": [
     "Computer Systems/2. Machine Architecture/Notes/6. MIPS - Programming.md",
+    "Computer Systems/2. Machine Architecture/Notes/7. ATmega328P.md",
+    "Computer Systems/2. Machine Architecture/Lectures/7. ATmega328P registers, memory map, IO.pdf",
+    "Computer Systems/2. Machine Architecture/Lectures/6. MIPS - Programming.pdf",
+    "Daily Notes/17-05-2025.md",
     "Personal/Project Ideas.md",
     "Personal",
     "Computer Systems/2. Machine Architecture/Notes/5. MIPS - Memory Map and Addressing Modes.md",
-    "Daily Notes/17-05-2025.md",
-    "Computer Systems/2. Machine Architecture/Lectures/6. MIPS - Programming.pdf",
-    "Computer Systems/2. Machine Architecture/Lectures/7. ATmega328P registers, memory map, IO.pdf",
     "Computer Systems/2. Machine Architecture/Lectures/8. Programming in AVR assembly.pdf",
     "Computer Systems/2. Machine Architecture/Lectures/5. MIPS - Memory Map and Addressing Modes.pdf",
     "Computer Systems/1. Digital Electronics/Notes/3. Transistors and Logic Gates.md",
@@ -237,7 +238,6 @@
     "Images/Pasted image 20250513011522.png",
     "Images/Pasted image 20250512201403.png",
     "Images/Pasted image 20250512133525.png",
-    "Daily Notes/12-05-2025.md",
     "Images/Pasted image 20250512201818.png",
     "Images/Pasted image 20250512133906.png",
     "Images/Pasted image 20250512132004.png",
