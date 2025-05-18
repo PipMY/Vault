@@ -33,10 +33,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Computer Systems/2. Machine Architecture/Lectures/7. ATmega328P registers, memory map, IO.pdf"
+                "file": "Computer Systems/2. Machine Architecture/Lectures/8. Programming in AVR assembly.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "7. ATmega328P registers, memory map, IO"
+              "title": "8. Programming in AVR assembly"
             }
           }
         ]
@@ -195,17 +195,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9935997675a69e1c",
+  "active": "d1c2a8d165470739",
   "lastOpenFiles": [
-    "Computer Systems/2. Machine Architecture/Notes/6. MIPS - Programming.md",
-    "Computer Systems/2. Machine Architecture/Notes/7. ATmega328P.md",
     "Computer Systems/2. Machine Architecture/Lectures/7. ATmega328P registers, memory map, IO.pdf",
+    "Computer Systems/2. Machine Architecture/Notes/7. ATmega328P.md",
+    "Computer Systems/Past Papers/2020.pdf",
+    "Computer Systems/Past Papers/2023.pdf",
+    "Computer Systems/2. Machine Architecture/Lectures/8. Programming in AVR assembly.pdf",
+    "Computer Systems/2. Machine Architecture/Notes/6. MIPS - Programming.md",
     "Computer Systems/2. Machine Architecture/Lectures/6. MIPS - Programming.pdf",
     "Daily Notes/17-05-2025.md",
     "Personal/Project Ideas.md",
     "Personal",
     "Computer Systems/2. Machine Architecture/Notes/5. MIPS - Memory Map and Addressing Modes.md",
-    "Computer Systems/2. Machine Architecture/Lectures/8. Programming in AVR assembly.pdf",
     "Computer Systems/2. Machine Architecture/Lectures/5. MIPS - Memory Map and Addressing Modes.pdf",
     "Computer Systems/1. Digital Electronics/Notes/3. Transistors and Logic Gates.md",
     "Computer Systems/1. Digital Electronics/Notes/4. Boolean Algebra.md",
@@ -222,9 +224,7 @@
     "ADS/2. Asymptotic Notation and Sorting/Lectures/3.pdf",
     "ADS/2. Asymptotic Notation and Sorting/Lectures/1-2.pdf",
     "ADS/3. Selection and Data Structures/Notes/4. Heaps.md",
-    "ADS/3. Selection and Data Structures/Lectures/3.pdf",
     "ADS/3. Selection and Data Structures/Notes/3. Balanced BSTs and AVL Trees.md",
-    "ADS/2. Asymptotic Notation and Sorting/Practicals/Questions/1.pdf",
     "ADS/2. Asymptotic Notation and Sorting/Notes/5. QuickSort.md",
     "ADS/2. Asymptotic Notation and Sorting/Notes/4. Recurrences.md",
     "Daily Notes/13-05-2025.md",
@@ -232,7 +232,6 @@
     "ADS/3. Selection and Data Structures/Notes/1. Algorithms for Sorting, Searching and Selection.md",
     "ADS/1. Fundamental Data Structures/Notes/4. Hash Tables.md",
     "ADS/4. Graph Theory and Algorithms/Notes/1. The Basics of Graph Theory.md",
-    "ADS/3. Selection and Data Structures/Notes/2. Binary Search Trees.md",
     "Images/Pasted image 20250513004601.png",
     "Images/Pasted image 20250513012831.png",
     "Images/Pasted image 20250513011522.png",
